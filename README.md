@@ -9,6 +9,7 @@
 &nbsp;
 
 ### TO-DO:
+
 - [ ] Picking up the subject of college assignments for study
 - [ ] Install Rust in this project
 
@@ -17,6 +18,7 @@
 &nbsp;
 
 ### Links:
+
 - [Rust](https://www.rust-lang.org/pt-BR)
 - [Rust Playground](https://play.rust-lang.org/)
 
@@ -25,6 +27,7 @@
 &nbsp;
 
 ### Readings to Do:
+
 - [ ] [A Discipline of Programming - Edsger W. Dijkstra](https://seriouscomputerist.atariverse.com/media/pdf/book/Discipline%20of%20Programming.pdf)
 - [ ] [Notes from Dijkstra's A Discipline of Programming](https://joshuatauberer.medium.com/notes-from-dijkstras-a-discipline-of-programming-bfbc9749f2c)
 - [ ] [Minimum Path Problem](https://pt.wikipedia.org/wiki/Problema_do_caminho_m%C3%ADnimo)
